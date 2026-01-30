@@ -22,5 +22,12 @@ int main(){
 
     // final touch
 
+    //new feature is added
+
+    int c = 6;
+    int d = 9;
+    
+
+
     return 0;
 }

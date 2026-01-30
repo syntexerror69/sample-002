@@ -6,5 +6,21 @@ int main(){
     cout<<"03719051722"<<endl;
     cout<<"IIOT B1"<<endl;
 
+    // ading  numbers 
+
+    int a  = 10;
+    int b = 5;
+
+    // ading condition
+
+    if(a>b){
+        int sum = a+b;
+        cout<<sum<<endl;
+    }else{
+        cout<<"nothing"<<endl;
+    }
+
+    // final touch
+
     return 0;
 }

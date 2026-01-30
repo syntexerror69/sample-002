@@ -22,5 +22,16 @@ int main(){
 
     // final touch
 
+    //new feature is added
+
+    int c = 6;
+    int d = 9;
+
+    // multiplication
+
+    int mul = c*d;
+    cout<<mul<<endl;
+
+
     return 0;
 }
